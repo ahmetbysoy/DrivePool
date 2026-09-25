@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DrivePool</string>
+    <string name="title_activity_main">DrivePool</string>
+    <string name="add_account">Hesap Ekle</string>
+    <string name="upload_file">Dosya Yükle</string>
+    <string name="account_status">Hesap Durumu</string>
+    <string name="total_free_space">Toplam Kullanılabilir</string>
+    <string name="accounts">HESAPLAR</string>
+    <string name="recent_uploads">SON İŞLEMLER</string>
+    <string name="connected">Bağlandı</string>
+    <string name="not_connected">Bağlan</string>
+</resources>
